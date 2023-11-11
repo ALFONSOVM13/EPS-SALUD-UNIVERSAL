@@ -88,7 +88,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #298ce5;
+  background: #0091c5;
   color: #fff;
 }
 
@@ -116,7 +116,7 @@ h6 {
 
 #topbar .button {
   margin-left: 25px;
-  background: #1977cc;
+  background:  #00678E;
   color: #fff;
   padding: 8px 25px;
   white-space: nowrap;
@@ -126,7 +126,7 @@ h6 {
 }
 
 #topbar .button:hover {
-  background: #166ab5;
+  background: #0091c5;
   color: #fff;
 }
 
@@ -180,7 +180,7 @@ h6 {
 */
 .appointment-btn {
   margin-left: 25px;
-  background: #1977cc;
+  background: #00678E;
   color: #fff;
   border-radius: 50px;
   padding: 8px 25px;
